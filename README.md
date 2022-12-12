@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nikhil-raj-ganta-5b551724a/https://www.linkedin.com/in/nikhil-raj-ganta-5b551724a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nikhil-raj-ganta-5b551724a/https://www.linkedin.com/in/nikhil-raj-ganta-5b551724a/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/nikhil-raj-ganta-5b551724a/https://www.linkedin.com/in/nikhil-raj-ganta-5b551724a/https://www.linkedin.com/in/nikhil-raj-ganta-5b551724a/https://www.linkedin.com/in/nikhil-raj-ganta-5b551724a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nikhil-raj-ganta-5b551724a/https://www.linkedin.com/in/nikhil-raj-ganta-5b551724a/https://www.linkedin.com/in/nikhil-raj-ganta-5b551724a/https://www.linkedin.com/in/nikhil-raj-ganta-5b551724a/" height="30" width="40" /></a>
 <a href="https://instagram.com/i__nikkhil__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i__nikkhil__" height="30" width="40" /></a>
 </p>
 
@@ -26,6 +26,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gantanikhilraj&show_icons=true&locale=en&layout=compact" alt="gantanikhilraj" /></p>
 
-<p>&nbsp;<img align="center" src="https://www.linkedin.com/in/nikhil-raj-ganta-5b551724a/" alt="gantanikhilraj" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gantanikhilraj&show_icons=true&locale=en" alt="gantanikhilraj" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gantanikhilraj&" alt="gantanikhilraj" /></p>
