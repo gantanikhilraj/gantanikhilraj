@@ -26,6 +26,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gantanikhilraj&show_icons=true&locale=en&layout=compact" alt="gantanikhilraj" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gantanikhilraj&show_icons=true&locale=en" alt="gantanikhilraj" /></p>
+<p>&nbsp;<img align="center" src="https://www.linkedin.com/in/nikhil-raj-ganta-5b551724a/" alt="gantanikhilraj" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gantanikhilraj&" alt="gantanikhilraj" /></p>
