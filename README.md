@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter Development**
 
-- 👯 I’m looking to collaborate with **Android Developers**
+- 👯 I’m looking to collaborate with **Flutter Developers**
 
 - 💬 Ask me about **Flutter/Dart, Java**
 
