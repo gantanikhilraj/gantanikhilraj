@@ -33,6 +33,9 @@
   <img width="48%" height="25%" src="https://github-readme-stats.vercel.app/api?username=gantanikhilraj&show_icons=true&theme=city_lights&border_color=393939&bg_color=00000000" />
   <img width="48%"  height="25%" src="https://github-readme-streak-stats.herokuapp.com?user=gantanikhilraj&theme=modern-lilac2&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" />
 </p> 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=gantanikhilraj&label=Profile%20Views&pretty=false" />
+</a>
 
 
 ![Nikhil Raj's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gantanikhilraj&theme=react)
