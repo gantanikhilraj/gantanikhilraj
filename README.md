@@ -36,4 +36,4 @@
 
 
 
-![Nikhil Raj's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nikhil Raj&theme=react)
+![Nikhil Raj's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gantanikhilraj&theme=react)
