@@ -30,8 +30,8 @@
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gantanikhilraj&theme=modern-lilac2&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 <!--   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amannegi&show_icons=true&theme=merko&hide_border=true" /> -->
 
-  <img width="48%" height="25%" src="https://github-readme-stats.vercel.app/api?username=amannegi&show_icons=true&theme=city_lights&border_color=393939&bg_color=00000000" />
-  <img width="48%"  height="25%" src="https://github-readme-streak-stats.herokuapp.com?user=amannegi&theme=modern-lilac2&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" />
+  <img width="48%" height="25%" src="https://github-readme-stats.vercel.app/api?username=gantanikhilraj&show_icons=true&theme=city_lights&border_color=393939&bg_color=00000000" />
+  <img width="48%"  height="25%" src="https://github-readme-streak-stats.herokuapp.com?user=gantanikhilraj&theme=modern-lilac2&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" />
 </p> 
 
 
