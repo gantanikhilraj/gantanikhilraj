@@ -25,7 +25,7 @@
 <a href="https://www.github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="oracle" width="40" height="40" color="white"/> </a>
 </p>
 
-## 📈 Stats ~ [![]
+## 📈 Stats ~ 
 <p align="center">
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gantanikhilraj&theme=modern-lilac2&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 <!--   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gantanikhilraj&show_icons=true&theme=merko&hide_border=true" /> -->
