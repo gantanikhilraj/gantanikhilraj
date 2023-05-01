@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gantanikhilraj&label=Profile%20views&color=0e75b6&style=flat" alt="gantanikhilraj" /> </p>
 
-- 🔭 I’m currently working for **NearFi as a SDE Intern**
+<!-- - 🔭 I’m currently working for **NearFi as a SDE Intern** -->
 
 - 🌱 I’m currently learning **Flutter Development**
 
