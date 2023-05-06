@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ganta Nikhil Raj</h1>
 <h3 align="center">A passionate App Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gantanikhilraj&label=Profile%20views&color=0e75b6&style=flat" alt="gantanikhilraj" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gantanikhilraj&label=Profile%20visitors&color=0e75b6&style=flat" alt="gantanikhilraj" /> </p>
 
 <!-- - 🔭 I’m currently working for **NearFi as a SDE Intern** -->
 
