@@ -1,3 +1,4 @@
+[![@rphi's Holopin board](https://holopin.io/api/user/board?user=gantanikhilraj)](https://www.holopin.io/@gantanikhilraj)
 <h1 align="center">Hi 👋, I'm Ganta Nikhil Raj</h1>
 <h3 align="center">A passionate App Developer</h3>
 
@@ -35,7 +36,7 @@
 <!--   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> -->
 <!--  <a href="https://www.github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> -->
 </p>
-[![An image of @gantanikhilraj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gantanikhilraj)](https://holopin.io/@gantanikhilraj)
+
 
 
 <!-- ## 📈 Stats ~ 
