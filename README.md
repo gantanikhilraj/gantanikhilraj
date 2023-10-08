@@ -1,4 +1,3 @@
-[![@rphi's Holopin board](https://holopin.io/api/user/board?user=gantanikhilraj)](https://www.holopin.io/@gantanikhilraj)
 [![An image of @gantanikhilraj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gantanikhilraj)](https://holopin.io/@gantanikhilraj)
 <h1 align="center">Hi 👋, I'm Ganta Nikhil Raj</h1>
 <h3 align="center">A passionate App Developer</h3>
