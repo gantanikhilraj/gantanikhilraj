@@ -2,7 +2,7 @@
 <h3 align="center">A passionate App Developer</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gantanikhilraj&label=%20Visitors&color=0e75b6&style=flat" alt="gantanikhilraj" /> </p>
+<img src="https://komarev.com/ghpvc/?username=gantanikhilraj&label=%20Visitors&color=0e75b6&style=flat" alt="gantanikhilraj" /> </p>
 
 <!-- - 🔭 I’m currently working for **NearFi as a SDE Intern** -->
 
