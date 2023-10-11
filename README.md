@@ -37,6 +37,7 @@
 <!--  <a href="https://www.github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> -->
 </p>
 
+[![An image of @gantanikhilraj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gantanikhilraj)](https://holopin.io/@gantanikhilraj)
 
 <!-- ## 📈 Stats ~ 
 <p align="center"> -->
