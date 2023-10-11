@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ganta Nikhil Raj</h1>
 <h3 align="center">A passionate App Developer</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gantanikhilraj&label=%20Visitors&color=0e75b6&style=flat" alt="gantanikhilraj" /> </p>
 
 <!-- - 🔭 I’m currently working for **NearFi as a SDE Intern** -->
@@ -36,8 +37,6 @@
 <!--  <a href="https://www.github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> -->
 </p>
 
-
-[![An image of @gantanikhilraj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gantanikhilraj)](https://holopin.io/@gantanikhilraj)
 
 <!-- ## 📈 Stats ~ 
 <p align="center"> -->
