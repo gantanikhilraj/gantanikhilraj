@@ -1,10 +1,10 @@
 <p alighn= "left" ><img src="https://komarev.com/ghpvc/?username=gantanikhilraj&label=%20Visitors&color=0e75b6&style=flat" alt="gantanikhilraj" /> </p>
 
 
-## 💫 About Me:
+# 💫 About Me:
 🌱 I’m currently learning CS Fundamentals & DSA<br>👯 I’m looking to contribute on open source projects<br>💬 Ask me about Flutter/Dart, Java<br>📫 How to reach me gantanikhilraj@gmail.com
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gantanikhilraj/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/gantanikhilraj) 
 
 # 💻 Tech Stack:
@@ -14,7 +14,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gantanikhilraj&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gantanikhilraj&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=gantanikhilraj&theme=chalk&no-frame=false&no-bg=true&margin-w=4)
 
 ---
