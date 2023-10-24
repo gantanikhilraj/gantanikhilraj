@@ -1,5 +1,5 @@
 <p alighn= "left" ><img src="https://komarev.com/ghpvc/?username=gantanikhilraj&label=%20Visitors&color=0e75b6&style=flat" alt="gantanikhilraj" /> </p>
-# 💫 About Me:
+## 💫 About Me:
 🌱 I’m currently learning CS Fundamentals & DSA<br>👯 I’m looking to contribute on open source projects<br>💬 Ask me about Flutter/Dart, Java<br>📫 How to reach me gantanikhilraj@gmail.com
 
 
