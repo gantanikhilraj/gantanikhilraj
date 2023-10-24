@@ -1,7 +1,8 @@
 <p alighn= "left" ><img src="https://komarev.com/ghpvc/?username=gantanikhilraj&label=%20Visitors&color=0e75b6&style=flat" alt="gantanikhilraj" /> </p>
+
+
 ## 💫 About Me:
 🌱 I’m currently learning CS Fundamentals & DSA<br>👯 I’m looking to contribute on open source projects<br>💬 Ask me about Flutter/Dart, Java<br>📫 How to reach me gantanikhilraj@gmail.com
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gananikhilraj) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/gantanikhilraj) 
